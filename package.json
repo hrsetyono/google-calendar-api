@@ -1,9 +1,9 @@
 {
-  "name": "PLUGIN_NAME",
+  "name": "google-calendar-api",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GITHUB_USERNAME/PLUGIN_NAME"
+    "url": "git+https://github.com/hrsetyono/google-calendar-api"
   },
   "dependencies": {},
   "scripts": {

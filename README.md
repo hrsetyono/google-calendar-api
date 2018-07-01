@@ -1,15 +1,10 @@
-# Edje Wordpress Boilerplate
+# Google Calendar API
 
-A very simple boilerplate for small plugins. Don't forget to replace all instance of PLUGIN_NAME. Based on [WPPB.io](http://wppb.io/).
+This plugin won't work without coding in your Theme. It only provides the function to call the API.
 
-Sass is compiled with [Edje](https://github.com/hrsetyono/edje)
+For documentation reads: https://github.com/google/google-api-php-client
 
 ## Requirement
 
-- PHP version 7.0
+- PHP version 5.6 or higher
 - WordPress version 4.9.6
-
-## Setup
-
-1. Lorem ipsum dolor sit amet.
-1. Consectetur adipisicing elit.

@@ -13,8 +13,10 @@ if( !defined( 'WPINC' ) ) { die; }
 define( 'GCAL_API_VERSION', '1.0.0' );
 define( 'GCAL_API_DIR', plugins_url( '', __FILE__ ) );
 
+require_once 'vendor/autoload.php';
 
-new GCal_API();
+
+// new GCal_API();
 class GCal_API {
 	function __construct() {
 		register_activation_hook( __FILE__, array($this, 'activation_hook') );
