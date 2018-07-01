@@ -22,3 +22,5 @@ If you're in Windows, you can add certificate to your WAMP or XAMPP installation
 1. In php.ini file, uncomment "curl.cainfo" and put in the path to your SSL file like `curl.cainfo = "C:\xampp\php\extras\ssl\cacert-2018-06-02.pem"`.
 
 1. Done your API should now work even without changing your Virtual Host to HTTPS.
+
+For details, read this [StackOveflow thread](https://stackoverflow.com/questions/29822686/curl-error-60-ssl-certificate-unable-to-get-local-issuer-certificate/34883260#34883260)
