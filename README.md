@@ -1,6 +1,6 @@
-# Google Calendar API
+# WP Google Calendar API
 
-This plugin won't work without coding in your Theme. It only provides the function to call the API.
+This WordPress plugin just provide you with the API Client. It doesn't do anything without coding in your Theme.
 
 For documentation reads: https://github.com/google/google-api-php-client
 
