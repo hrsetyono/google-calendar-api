@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Google Calendar API
-Description: [Require Coding] Provide function to call Google Calendar API
-Plugin URI: https://github.com/hrsetyono/google-calendar-api
+Plugin Name: WP Google API
+Description: [Require Coding] Client for Google API
+Plugin URI: https://github.com/hrsetyono/wp-google-api
 Author: Henner Setyono
 Author URI: http://github.com/hrsetyono
 Version: 1.0.0
