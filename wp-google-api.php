@@ -3,8 +3,8 @@
 Plugin Name: WP Google API
 Description: [Require Coding] Client for Google API
 Plugin URI: https://github.com/hrsetyono/wp-google-api
-Author: Henner Setyono
-Author URI: http://github.com/hrsetyono
+Author: Pixel Studio
+Author URI: https://pixelstudio.id
 Version: 1.0.0
 */
 
